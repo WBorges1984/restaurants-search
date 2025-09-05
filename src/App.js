@@ -10,6 +10,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <Reset />
       <Home />
+      <h1>Hello</h1>
     </ThemeProvider>
   );
 }
