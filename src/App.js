@@ -11,6 +11,7 @@ function App() {
       <Reset />
       <Home />
       <h1>Hello</h1>
+      <h3>Hello</h3>
     </ThemeProvider>
   );
 }
